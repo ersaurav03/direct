@@ -33,7 +33,7 @@
 		directives:{
 			'local-dr':{
 				bind(el,binding,vnode){
-					el.style.backgroundColor='green';
+					el.style.backgroundColor='rgba(255,0,0,0.7)';
 
 				}
 			},
